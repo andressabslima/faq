@@ -3,7 +3,6 @@
 	<div class="row">
 		<div class="col-lg-8 text-center mx-auto">
 			<h1 class="text-white mb-3">{{ .Site.Params.banner.title | markdownify }}</h1>
-			<p class="text-white mb-4">{{ .Site.Params.banner.subtitle | markdownify }}</p>
 			<div class="position-relative">
 				<input id="search" class="form-control" placeholder="{{ .Site.Params.banner.placeholder }}">
 				<i class="ti-search search-icon"></i>
@@ -33,6 +32,7 @@
 					});
 				</script>
 			</div>
+			<p class="text-white mt-4">{{ .Site.Params.banner.subtitle | markdownify }}</p>
 		</div>
 	</div>
 </div>

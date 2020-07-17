@@ -1,24 +1,18 @@
 ---
-title: "Não consigo emitir a NF-e de Devolução"
+title: "Qual é a diferença de NFe para NFCe ?"
 date: 2020-05-18T11:02:05+04:00
 lastmod: 2020-05-18T11:02:05+04:00
 weight: 3
 draft: false
 # search related keywords
-keywords: ["nfe","nota","fiscal","devolução","emitir"]
+keywords: ["nfe","nota","fiscal","nfce","diferença"]
 ---
 
-Após o prazo de 24 horas (prazo máximo para CANCELAR a NFe referente a venda), é necessário "Comprar de volta" o aparelho de seu cliente caso o mesmo o devolva.
+# NFC-e (Nota Fiscal Consumidor Eletrônica)
 
-Para isso, realize a COMPRA de forma "MANUAL" (Gestão de Estoque > Estoque > Compra > Inserir > XML "Não"), selecione o TIPO MOVIMENTO "Devolução na Venda, escolha o tipo fornecedor CLIENTE e então busque pelo cadastro do CLIENTE.
+Foi criada para substituir os cupons fiscais emitidos por ECF (Emissor de Cupom Fiscal) e a nota fiscal de venda ao consumidor que era feita manualmente.
+A NFC-e, deverá ser emitida em cada operação realizada com o consumidor final. Ela é um documento bem mais simples que a NF-e. A NFC-e geralmente é utilizada para operações no varejo.
 
-![image example](compra.png "Inserir Compra")
+# NF-e (Nota Fiscal Eletrônica)
 
-![image example](devolucao.png "Devolução na venda")
-
-> Atente-se: ao mudar a tipo de movimento para DEVOLUÇÃO, na parte superior, você terá a possibilidade de cancelar comissão e venda do vendedor.
-
-Caso a compra já tenha sido salva em data anterior e a NFe não tenha sido emitida, será necessário editar esta compra colocando uma data atualizada, salvar e então registrar a Nota Fiscal.
-![image example](alterar-data.png "Alterar data")
-
-Clique [aqui](https://before.atlassian.net/wiki/spaces/SYSCOR/pages/598573067/Compra+por+Devolu+o+de+Venda) e veja o passo a passo em nosso manual.
+É utilizada para registrar as operações que envolvem a circulação de mercadoria. Normalmente é emitida em transações entre pessoas jurídicas. A NF-e, diferentemente da NFC-e, é utilizada também para outras operações de compra e venda, incluindo devolução, transferência, venda Interestadual, complementos, aproveitamento de crédito, etc.

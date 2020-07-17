@@ -1,5 +1,5 @@
 ---
-title: "Erro de CEST ao vender Produto Open"
+title: "'CEST': O valor '0' não é aceito para o padrão. '[0-9]{7}'"
 date: 2020-05-18T11:02:05+04:00
 lastmod: 2020-05-18T11:02:05+04:00
 weight: 3

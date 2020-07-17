@@ -79,7 +79,7 @@ h6,
 
 .btn-primary {
   background: var(--primary-color);
-  color: var(--white-color);
+  color: var(--text-white-color);
 }
 
 .btn-primary:active {
@@ -178,8 +178,8 @@ select:focus {
 }
 
 .section {
-  padding-top: 80px;
-  padding-bottom: 80px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 @media (max-width: 768px) {
@@ -333,7 +333,7 @@ header.sticky-top {
 }
 
 .navbar-brand img {
-  max-width: 100px;
+  max-width: 200px;
   margin-bottom: 0;
 }
 
