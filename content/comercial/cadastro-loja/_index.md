@@ -8,7 +8,7 @@ draft: false
 keywords: ["cadastro"]
 ---
 
-Para que seja adicionado um novo PDV você precisa encaminhar um e-mail para comercial@before.com.br com a alteração contratual digitalizada que conste as informações da nova filial e os dados abaixo relacionados: 
+Para que seja adicionado um novo PDV você precisa encaminhar um e-mail para comercial@before.com.br com a alteração contratual digitalizada que conste as informações da nova filial e os dados abaixo relacionados:
 
 - Nome da loja (como deseja que seja cadastrado no ambiente do Vivo GO):
 - Data Inauguração da Loja (ativação no ambiente Vivo GO):
