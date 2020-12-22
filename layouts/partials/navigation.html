@@ -18,8 +18,38 @@
       aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-
-    <div class="collapse navbar-collapse text-center" id="navigation">
+    {{ if not .IsHome }}
+    <div class="collapse navbar-collapse text-center mx-sm-3">
+      <input id="search" class="form-control" placeholder="{{ .Site.Params.banner.placeholder }}">
+      <i class="ti-search search-icon"></i>
+      <!-- Javascript -->
+      {{ $currentNode := . }}
+      {{ $currentNode.Scratch.Set "pages" .Site.Pages }}
+      {{ $pages := ($currentNode.Scratch.Get "pages") }}
+      <script>
+        $(function() {
+          var projects = [
+            {{ range $pages }}
+          {
+            value: "{{ .Title }}",
+                    label: "<p>{{.Plain}}</p>{{range.Params.Keywords}}<p>{{.}}</p>{{end}}",
+                  url:"{{ .Permalink }}"
+          },
+          {{ end }}
+        ];
+          $( "#search" ).autocomplete({
+            source: projects
+          })
+                  .data( "ui-autocomplete" )._renderItem = function( ul, item ) {
+            return $( "<li>" )
+                    .append( "<a href=" + item.url + " + \" &quot;\" +  >" + item.value + "</a>" + item.label )
+                    .appendTo( ul );
+          };
+        });
+      </script>
+    </div>
+    {{ end }}
+    <div class="text-center" id="navigation">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item">
           <a class="nav-link text-white" href="{{ .Site.BaseURL | relLangURL }}" target="_blank">{{ .Site.Params.home }}</a>
