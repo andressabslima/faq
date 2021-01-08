@@ -17,6 +17,13 @@ unsafe= true
 name = "Manuais"
 url = "https://before.atlassian.net/wiki/spaces/SYSCOR/overview"
 weight = 1
+target = "_blank"
+
+[[menu.main]]
+name = "Contato"
+url = "contato"
+weight = 2
+target = "_self"
 
 ############################# Default Parameters ##########################
 [params]
@@ -72,4 +79,4 @@ placeholder = "Digite as palavras-chave para encontrar sua resposta"
 [Languages.en.params.cta]
 enable = true
 title = "Não encontrou uma resposta para a sua dúvida?"
-content = "Envie sua dúvida para a nossa equipe de suporte pelo e-mail cs.vivogo@before.com.br. Em breve retornaremos seu contato."
+content = "Envie sua dúvida para a nossa equipe de suporte pelo e-mail cs.vivogo@before.com.br.<br><br>Em breve retornaremos seu contato."
