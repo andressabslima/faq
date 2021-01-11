@@ -131,3 +131,5 @@ Z
 *content/comercial/alteracao-loja/_index.md,5/a/5aa3c57d47ffb676fe38660ed8ea2e5030f572b6
 I
 content/contato/_index.md,b/d/bdbe1283b33c1a0c6071d0f086cc0edfc03b37f6
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
