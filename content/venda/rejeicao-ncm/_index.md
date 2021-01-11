@@ -1,5 +1,5 @@
 ---
-title: "NCM: O valor '0' não é aceito para o padrão."
+title: "NCM: O valor '0' não é aceito para o padrão"
 date: 2020-09-25T11:02:05+04:00
 lastmod: 2020-09-25T11:02:05+04:00
 weight: 3

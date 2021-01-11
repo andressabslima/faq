@@ -1,5 +1,5 @@
 ---
-title: "Quando vou fechar o caixa, aparece apenas a opção “Escolha” nas contas bancárias"
+title: "Fechamento do caixa aparece apenas a opção “Escolha” nas contas bancárias"
 date: 2020-08-26T11:02:05+04:00
 lastmod: 2020-08-26T11:02:05+04:00
 weight: 3

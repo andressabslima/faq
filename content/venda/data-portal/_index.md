@@ -1,5 +1,5 @@
 ---
-title: "Problema na leitura da data. Por favor, verifique o arquivo e tente novamente."
+title: "Problema na leitura da data. Por favor, verifique o arquivo e tente novamente"
 date: 2020-05-18T11:02:05+04:00
 lastmod: 2020-05-18T11:02:05+04:00
 weight: 3

@@ -1,5 +1,5 @@
 ---
-title: "Não localizo o Produto Open na compra"
+title: "Não localizo o Produto Open"
 date: 2020-05-18T11:02:05+04:00
 lastmod: 2020-05-18T11:02:05+04:00
 weight: 3
@@ -23,8 +23,8 @@ Cada uma das opções possui seu tutorial com vídeo-aula explicativo. Basta cli
 ![image example](video-aulas.png "Ajuda")
 
 Ou clique nos links para acessar:
-[Grupo e Marca](https://before.atlassian.net/wiki/spaces/SYSCOR/pages/10289193/Grupo+e+Marca), 
-[Modelo](https://before.atlassian.net/wiki/spaces/SYSCOR/pages/587628586/Modelo), 
+[Grupo e Marca](https://before.atlassian.net/wiki/spaces/SYSCOR/pages/10289193/Grupo+e+Marca),
+[Modelo](https://before.atlassian.net/wiki/spaces/SYSCOR/pages/587628586/Modelo),
 [Tipo](https://before.atlassian.net/wiki/spaces/SYSCOR/pages/1540122/Tipo+Produto).
 
 > NCM (Nomenclatura Comum do Mercosul) - Confirme junto ao contador o correto para cada produto - Este número não possui . - / ou qualquer caracter especial.

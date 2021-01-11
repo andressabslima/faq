@@ -1,5 +1,5 @@
 ---
-title: "Não consigo importar o XML na compra"
+title: "Não consigo importar o XML"
 date: 2020-05-18T11:02:05+04:00
 lastmod: 2020-05-18T11:02:05+04:00
 weight: 3
@@ -10,7 +10,7 @@ keywords: ["xml","compra","importar"]
 
 Para iniciar a compra (entrada) utilizando a importação por arquivo .XML primeiramente garanta que seu arquivo .XML não esteja corrompido ou incorreto.
 
-Para isto: 
+Para isto:
 1. Acesse o site https://www.fsist.com.br/.
 2. No primeiro acesso, ao tentar baixar a NFe, é necessário instalar a EXTENSÃO do FSist.
 ![image example](extensao.png "Baixar extensão FSist")

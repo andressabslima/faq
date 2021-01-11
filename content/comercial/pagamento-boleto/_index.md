@@ -11,3 +11,5 @@ keywords: ["boleto","mensalidade","financeiro"]
 Você pode solicitar seu boleto para pagamento da mensalidade do sistema pelo e-mail __financeiro@before.com.br__ ou entrar em contato através do telefone __67 3352-3456__.
 
 Caso deseje se informar quanto ao valor de sua mensalidade, pode contactar diretamente pelo e-mail __comercial@before.com.br__ ou pelos telefones __67 99904-8880  /  67 99958-8880__.
+
+<font color="#FF0000">Após encaminhar a solicitação, basta aguardar a tratativa e retorno do setor responsável.</font>

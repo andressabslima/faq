@@ -25,4 +25,4 @@ Encaminhe um e-mail para comercial@before.com.br com os seguintes dados do conta
 - Bairro
 - Complemento
 
-O setor responsável irá realizar o cadastro e lhe retornará por e-mail com a confirmação.
+<font color="#FF0000">Após encaminhar a solicitação, basta aguardar a tratativa e retorno do setor responsável.</font>

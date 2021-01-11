@@ -1,21 +1,21 @@
 ---
-title: "Estou sem acesso a forma de pagamento."
-date: 2020-08-05T11:02:05+04:00
-lastmod: 2020-08-05T11:02:05+04:00
+title: "Como fazer alteração do cadastro na loja ?"
+date: 2020-07-29T11:02:05+04:00
+lastmod: 2020-07-29T11:02:05+04:00
 weight: 3
 draft: false
 # search related keywords
-keywords: ["pagamento"]
+keywords: ["alteração","alteracao"]
 ---
 
-Preciso lançar um pagamento mas não tem a opção que preciso, oque posso fazer nesse caso ?
+Para alteração de dados cadastrais da loja como: Razão Social, Nome Fantasia, Nome da Filial, E-mail, Telefone, Endereço da Loja e Inscrição Estadual.
 
-Nesse caso é necessário solicitar para alguém com uma hierarquia maior alterar no sistema para que seja liberado a forma de pagamento para você.
+Você deve enviar as informações para o e-mail comercial@before.com.br com cópia para o proprietário da rede para que este tenha ciência da alteração a ser realizada.
 
-O caminho para liberação é : __Configurações > Usuários > Função > Buscar Registro__
+Informar o CNPJ da loja em questão e os documentos oficiais e atualizados que justifiquem a alteração, como:
 
-Busque pela sua função e clique para edita-la
+- Contrato Social,
+- Comprovante de CNPJ,
+- Comprovante de Inscrição Estadual, etc.
 
-Na aba “_Formas de pagamento_” selecionar a opção desejada.
-
-Feito isso basta sair do sistema e acessar novamente para que as alterações realizadas entrem em vigor.
+<font color="#FF0000">Após encaminhar a solicitação, basta aguardar a tratativa e retorno do setor responsável.</font>

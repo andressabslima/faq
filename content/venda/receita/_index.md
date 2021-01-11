@@ -1,5 +1,5 @@
 ---
-title: "Não foi possível gerar a receita referente à esta contestação, pois nenhum caixa da filial foi encontrado."
+title: "Não foi possível gerar a receita referente à esta contestação, pois nenhum caixa da filial foi encontrado"
 date: 2020-05-18T11:02:05+04:00
 lastmod: 2020-05-18T11:02:05+04:00
 weight: 3

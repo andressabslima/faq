@@ -1,5 +1,5 @@
 ---
-title: "Como lançar uma Nota Fiscal de Serviço Eletrônico (NFS-e) no sistema ?"
+title: "Como lançar uma Nota Fiscal de Serviço Eletrônico (NFS-e) ?"
 date: 2020-09-02T11:02:05+04:00
 lastmod: 2020-09-02T11:02:05+04:00
 weight: 3

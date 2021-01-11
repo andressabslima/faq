@@ -1,5 +1,5 @@
 ---
-title: "Linha : XX. Coluna : SERVIÇO não encontrado. Valor informado."
+title: "Linha : XX. Coluna : SERVIÇO não encontrado. Valor informado"
 date: 2020-05-18T11:02:05+04:00
 lastmod: 2020-05-18T11:02:05+04:00
 weight: 3

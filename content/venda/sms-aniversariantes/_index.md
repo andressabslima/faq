@@ -1,5 +1,5 @@
 ---
-title: "Como enviar sms para os aniversariantes do dia ?"
+title: "Como enviar SMS para os aniversariantes do dia ?"
 date: 2020-08-26T11:02:05+04:00
 lastmod: 2020-08-26T11:02:05+04:00
 weight: 3

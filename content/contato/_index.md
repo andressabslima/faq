@@ -13,7 +13,7 @@ draft: false
 <br>
 <div>E-mail: cs.vivogo@before.com.br</div>
 <br>
-<div>Horário de Atendimento (Segunda à Sexta: 8h30 - 22h e Sábado: 9h - 20h) - Horário de Brasília</div>
+<div><font color="#FF0000">Horário de Atendimento (Segunda à Sexta: 8h30 - 22h e Sábado: 9h - 20h) - Horário de Brasília</div></font>
 <br>
 <h4><b>Equipe Comercial:</b></h4>
 <div>(067) 99904-8880</div>
@@ -21,4 +21,4 @@ draft: false
 <br>
 <div>E-mail: comercial@before.com.br</div>
 <br>
-<div>Horário de Atendimento (Segunda à Sexta: 08 - 19h) - Horário de Brasília</div>
+<div><font color="#FF0000">Horário de Atendimento (Segunda à Sexta: 08 - 19h) - Horário de Brasília</div></font>

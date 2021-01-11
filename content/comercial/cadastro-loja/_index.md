@@ -24,4 +24,4 @@ Para que seja adicionado um novo PDV você precisa encaminhar um e-mail para com
 - Inscrição Estadual:
 - Regime Tributário (ex: lucro real / presumido / simples nacional):
 
-Após encaminhar o e-mail basta aguardar o retorno da equipe responsável.
+<font color="#FF0000">Após encaminhar a solicitação, basta aguardar a tratativa e retorno do setor responsável.</font>
