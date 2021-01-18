@@ -8,10 +8,10 @@ draft: false
 keywords: ["percentual","rateio","erro"]
 ---
 
-Ao tentar fazer o realizar o rateio de uma despesa acusa: "Atenção! Não existe receita para calcular o percentual de rateio".
+Ao tentar realizar o rateio de uma despesa acusa: "Atenção! Não existe receita para calcular o percentual de rateio".
 
-![image example](erro rateio.png "Solução do erro")
+![image example](errorateio.png "Erro")
 
 É necessário editar o tipo de despesa que está vinculado a este movimento, selecionar a opção manual e selecionar as filiais que farão parte do rateio desse tipo de despesa.
 
-![image example](rateio manual.png "Solução do erro")
+![image example](rateiomanual.png "Rateio Manual")

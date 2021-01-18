@@ -14,4 +14,4 @@ Isso quer dizer que você está sem acesso a uma conta bancária no sistema para
 
 Feito este procedimento, a conta irá aparecer para selecionar e fechar o caixa. Lembrando que se faz necessário sair e logar novamente no sistema para aplicar as configurações realizadas.
 
-OBS: Se em seu acesso não possuir o caminho mencionado acima ou a conta bancárias não aparecer ao clicar no ícone de busca no módulo Contas Bancárias, procure o seu gestor imediato para pedir a liberação em sua função.
+OBS: Se em seu acesso não possuir o caminho mencionado acima ou a conta bancárias não aparecer ao clicar no ícone de busca no módulo Contas Bancárias. Procure seu gestor para realizar o procedimento, ou se for o caso, peça para que ele habilite essa permissão em sua função.

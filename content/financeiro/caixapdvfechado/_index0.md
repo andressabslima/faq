@@ -20,5 +20,4 @@ Se o caixa está aberto, libere o acesso dele para seu usuário acessando Financ
 Caixas do PDV; clique no ícone para buscar o caixa e em seguida clique no botão para editar;
 marque o seu nome e clique em Salvar.
 
-OBS: Se em seu acesso não possuir o caminho mencionado acima, procure o seu gestor imediato
-para pedir a liberação em sua função.
+OBS: Procure seu gestor para realizar o procedimento, ou se for o caso, peça para que ele habilite essa permissão em sua função.
