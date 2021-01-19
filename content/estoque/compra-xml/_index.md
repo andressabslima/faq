@@ -22,4 +22,4 @@ Para isto:
 7. Clique no botão "Escolher Arquivo".
 8. Busque pelo arquivo .XML que realizou o download e siga os passos para finalizar a compra.
 
-Caso tenha dúvidas, clique [aqui](https://before.atlassian.net/wiki/spaces/SYSCOR/pages/596967469/Importa+o+Via+XML) e veja o passo a passo em nosso manual.
+<font color="#FF0000">Obs : Para acesso as notas via FSIST é necessário ter o certificado digital instalado em sua maquina. Caso tenha duvidas de como instalar o certificado digital [CLIQUE AQUI](https://before.atlassian.net/wiki/spaces/SYSCOR/pages/609386515/Certificado+Digital+-+Procedimentos)</font>
