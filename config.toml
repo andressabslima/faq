@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://syscor-homologacao.before.com.br/faq"
+baseURL = "https://syscor.before.com.br/faq"
 # theme
 theme = "dot"
 # site title
