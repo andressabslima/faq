@@ -6,7 +6,7 @@ theme = "dot"
 # site title
 title = "Vivo GO FAQ"
 # google analytics
-googleAnalytics = "UA-5488627-1" # paste your analytics ID here. (Ex: UA-123-45)
+googleAnalytics = "260519517" # paste your analytics ID here. (Ex: UA-123-45)
 
 # unsafe html
 [markup.goldmark.renderer]
