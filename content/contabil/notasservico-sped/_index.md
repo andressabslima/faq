@@ -8,7 +8,7 @@ draft: false
 keywords: ["serviço","sped","notas"]
 ---
 
-Sei que as notas de serviço de prestadores de serviço podem ser lançadas como despesa para saírem no SPED.
+Sei que as notas de serviço de prestadores de serviço podem ser lançadas como receitas para saírem no SPED.
 
 Como proceder com as notas emitidas pela loja ?
 
