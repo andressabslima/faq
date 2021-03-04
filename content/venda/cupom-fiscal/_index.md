@@ -8,14 +8,20 @@ draft: false
 keywords: ["cupom","sincroniza","eficaz","paf"]
 ---
 
-- Primeiramente feche o eficaz.
+Para que seja realizado o sincronismo dos cupons fiscais é necessário que você siga todo o passo a passo abaixo.
+
+- Feche o Eficaz.
 
 - Clique no menu Iniciar do seu sistema operacional e digite : services.msc aparecerá um aplicativo chamado "Serviços", clique para executa-lo.
 
 ![image example](services.png "Serviços")
 
-- Procure pelos serviços IntegradorPAF / Firebird Guardian / Firebird Server e reinicie-os clicando com o botão direito do mouse em cima de cada um dos serviços.
+![image example](abrindoservices.png "Abrindo")
+
+- Procure pelos serviços IntegradorPAF / Firebird Guardian / Firebird Server e clique para reiniciar cada um dos serviços.
+
+![image example](reiniciandoservicos.gif "Como fazer")
 
 - Feito isso, basta abrir o eficaz novamente.
 
-(Obs : As vendas serão sincronizadas de 30 em 30 segundos)
+( Obs : As vendas serão sincronizadas de 30 em 30 segundos )
