@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://syscor.before.com.br/faq/erros/venda/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/comercial/</loc>
+    <lastmod>2020-05-18T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/erros/estoque/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/estoque/</loc>
+    <lastmod>2020-05-18T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/venda/habilitacao-avulsa/</loc>
+    <lastmod>2021-02-27T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://syscor.before.com.br/faq/relatorios/relatoriodenotas/</loc>
     <lastmod>2021-01-22T11:02:05+04:00</lastmod>
   </url>
@@ -119,6 +144,11 @@
   
   <url>
     <loc>https://syscor.before.com.br/faq/financeiro/acesso-contabancaria/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/erros/financeiro/</loc>
     <lastmod>2020-08-26T11:02:05+04:00</lastmod>
   </url>
   
@@ -308,6 +338,11 @@
   </url>
   
   <url>
+    <loc>https://syscor.before.com.br/faq/financeiro/</loc>
+    <lastmod>2020-05-18T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://syscor.before.com.br/faq/venda/servico-portal/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
@@ -413,28 +448,18 @@
   </url>
   
   <url>
-    <loc>https://syscor.before.com.br/faq/</loc>
-    <lastmod>2021-01-22T11:02:05+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://syscor.before.com.br/faq/comercial/</loc>
-    <lastmod>2020-05-18T11:02:05+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://syscor.before.com.br/faq/estoque/</loc>
-    <lastmod>2020-05-18T11:02:05+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://syscor.before.com.br/faq/financeiro/</loc>
-    <lastmod>2020-05-18T11:02:05+04:00</lastmod>
+    <loc>https://syscor.before.com.br/faq/erros/relatorios/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
   </url>
   
   <url>
     <loc>https://syscor.before.com.br/faq/contabil/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/erros/configuracoes/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
   </url>
   
   <url>
@@ -445,6 +470,16 @@
   <url>
     <loc>https://syscor.before.com.br/faq/venda/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/erros/</loc>
+    <lastmod>2020-05-18T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/</loc>
+    <lastmod>2021-02-27T11:02:05+04:00</lastmod>
   </url>
   
   <url>
