@@ -15,7 +15,6 @@ Solução : Retire caracteres especiais e verifique se existe espaçamento no fi
 
 Realizado o ajuste indicado acima, basta salvar e reenviar a nota.
 
-
 --------------------------------------------------------------------------------------------------------------------
 
 - <div><font color="#FF0000">Erro : xLgr : O valor tem o tamanho "1" ; deve ter o tamanho mínimo de "2"</div></font>
@@ -74,11 +73,37 @@ Solução : Deve-se verificar o tipo de movimento de venda (se entrada ou saída
 
 Realizado o ajuste indicado acima, basta salvar e reenviar a nota.
 
-
-
 --------------------------------------------------------------------------------------------------------------------
 
 - <div><font color="#FF0000">Erro : 'nat0p': O valor tem o tamanho "0", deve ter o tamanho minimo de '1'.</div></font>
 Solução : Verifique se as alíquotas estão cadastradas. Atenção com as alíquotas MP do Bem.
+
+Realizado o ajuste indicado acima, basta salvar e reenviar a nota.
+
+--------------------------------------------------------------------------------------------------------------------
+
+- <div><font color="#FF0000">Erro : Cest : O valor "0"não é aceito para o padrão.</div></font>
+Solução :  Caso a venda seja de acessório deve-se verificar o cadastro referente ao mesmo através do menu Gestão de Estoque > Acessório > Acessório. Confirme se o campo CEST esta preenchido ou com um numero CEST válido. Para conferencia sempre verifique na NF-e do fornecedor o cest preenchido ou utilize o NCM do acessório. Você pode verificar o numero cest no site oficial do mercosul https://portalunico.siscomex.gov.br/classif/#/sumario?perfil=publico. Caso seja produto OPEN acesse o menu Gestão de Estoque > Produtos Open > Tipo Produto e efetue a mesma conferência.
+
+Realizado o ajuste indicado acima, basta salvar e reenviar a nota.
+
+--------------------------------------------------------------------------------------------------------------------
+
+- <div><font color="#FF0000">Erro : CST informado (COD 382) .</div></font>
+Solução :  Acesse o menu Configurações > Alíquotas > Alíquotas, busque pela alíquota sendo utilizada na movimentação e clique para edita-la. Nas configurações da alíquota você deve selecionar os dois campos citados abaixo de acordo com a orientação da sua equipe contabil.
+
+Campos :  "Situação Tributaria ICMS p/ ECF"  e  "CST ICMS (Código Situação Tributária ICMS)".
+
+![image example](campoescolha.png "Escolha a Opção")
+
+Após validar com sua equipe contabil e selecionar as opções adequadas salve a alíquota.
+Volte na venda clique para edita-la e salve.
+
+Realizado o ajuste indicado acima, basta salvar e reenviar a nota.
+
+--------------------------------------------------------------------------------------------------------------------
+
+- <div><font color="#FF0000">Erro : 'CEP': O valor '' não é aceito para o padrão. '[0-9]{8}'.</div></font>
+Solução :  O campo referente ao CEP esta em branco no cadastro do cliente, edite o cadastro do cliente preencha o campo e salve.
 
 Realizado o ajuste indicado acima, basta salvar e reenviar a nota.

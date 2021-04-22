@@ -1,11 +1,11 @@
 ---
-title: "Como efetuo extorno de uma transação TEF ?"
+title: "Como efetuo estorno de uma transação TEF ?"
 date: 2020-12-22T11:02:05+04:00
 lastmod: 2020-12-22T11:02:05+04:00
 weight: 3
 draft: false
 # search related keywords
-keywords: ["extorno","cancelamento","cancelar","tef"]
+keywords: ["estorno","cancelamento","cancelar","tef","extorno"]
 ---
 
 Primeiramente localize a venda em questão no menu __Venda > Venda > Venda ( Buscar Registro )__
