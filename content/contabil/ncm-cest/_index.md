@@ -1,5 +1,5 @@
 ---
-title: "O que é código NCM e CEST e onde consultar ?"
+title: "O que é código NCM e CEST ?"
 date: 2020-08-26T11:02:05+04:00
 lastmod: 2020-08-26T11:02:05+04:00
 weight: 3
@@ -8,16 +8,15 @@ draft: false
 keywords: ["ncm","cest"]
 ---
 
-__NCM__ significa "Nomenclatura Comum do Mercosul" e trata-se de um código de oito dígitos estabelecido pelo Governo Brasileiro para identificar a natureza das mercadorias e promover o desenvolvimento do comércio internacional, além de facilitar a coleta e análise das estatísticas do comércio exterior.
+A tentar efetuar o cadastro de um cliente o sistema gera a seguinte mensagem "CPF/CNPJ já está cadastrado" mas o tentar lançar o CPF/CNPJ em uma venda ele não aparece.
 
-__CEST__ significa Código Especificador da Substituição Tributária. Refere-se ao Código Especificador da Substituição Tributária. Este código estabelece uma identificação padrão para todas as mercadorias e bens sujeitos à Substituição Tributária.
+Solução:
 
-__Onde consultar ?__
+Acesse o menu  Vendas > Vendas > Cliente > Buscar Registro
+Cole o CPF/CNPJ do cliente e na última opção da página coloque o status como INATIVO e clique em buscar.
 
-Para validar qual é o número de CEST correto verifique o NCM na nota de compra emitida pelo fornecedor ou utilize o preenchido no cadastro do acessório, se o mesmo estiver correto, e acesse o link a seguir:
+![image example](clienteinativo.png "Inativo)
 
-https://portalunico.siscomex.gov.br/classif/#/sumario?perfil=publico
+O caso o sistema gere um resultado para a busca clique em EDITAR e na pagina que se abre mude o status para ATIVO e por final clique em SALVAR.
 
-Efetue a busca pelo NCM e o resultado que o site gerara será a lista de Cest para aquele NCM,  após verifique o qual melhor se encaixa com a descrição do seu item e preencha no VIVO GO e salve o registro.
-
-Ambos são obrigatórios para a emissão de NF-e ou NFC-e.
+![image example](inativo2.png "Mudar nesse campo")

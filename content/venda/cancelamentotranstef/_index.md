@@ -1,5 +1,5 @@
 ---
-title: "Como efetuo estorno de uma transação TEF ?"
+title: "Como estornar uma transação TEF ?"
 date: 2020-12-22T11:02:05+04:00
 lastmod: 2020-12-22T11:02:05+04:00
 weight: 3
