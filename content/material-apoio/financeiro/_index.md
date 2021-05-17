@@ -8,6 +8,9 @@ draft: false
 keywords: ["financeiro"]
 ---
 
-[Manual em PDF][1]
+[Financeiro - Cadastro e Configuração][1]
 
-[1]:teste.pdf
+[Financeiro - Caixa][2]
+
+[1]:FinanceiroCadastroeConfiguracao.pdf
+[2]:FinanceiroCaixa.pdf
