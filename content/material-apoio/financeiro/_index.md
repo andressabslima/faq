@@ -12,5 +12,13 @@ keywords: ["financeiro"]
 
 [Financeiro - Caixa][2]
 
+[Financeiro - Contas a pagar, Contas a receber e Baixa de títulos][3]
+
+[Financeiro - Contas Bancárias][4]
+
+
+
 [1]:FinanceiroCadastroeConfiguracao.pdf
 [2]:FinanceiroCaixa.pdf
+[3]:FinanceiroContasapagarContasarecebereBaixadetítulos.pdf
+[4]:FinanceiroContasbancarias.pdf
