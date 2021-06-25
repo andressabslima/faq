@@ -20,9 +20,12 @@ keywords: ["vendas"]
 
 [Gestão Documental - Extração GED][6]
 
+[Projeto Outbound - Passo a Passo][7]
+
 [1]:FluxoRenova.pdf
 [2]:FluxoTef.pdf
 [3]:LancamentoPitzi.pdf
 [4]:FluxoRecargaConekta.pdf
 [5]:GestãoDocumental.pdf
 [6]:gedextracao.pdf
+[7]:projetooutbound.pdf
