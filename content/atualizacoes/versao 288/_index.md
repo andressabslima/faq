@@ -8,7 +8,13 @@ draft: false
 keywords: ["versão","versao","2.8.8"]
 ---
 
-Basta clicar abaixo para visualizar as atualizações desta versão.
+Resumo das atualizações :
+
+● Melhoria na consideração de datas de vencimento de cartões
+
+● Ajustes MD-e.
+
+Basta clicar abaixo para visualizar o detalhado das atualizações desta versão.
 
 [Versão 2.8.8][1]
 
