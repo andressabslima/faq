@@ -3,13 +3,7 @@ title: "Entre em contato conosco"
 draft: false
 ---
 <h4><b>Suporte Técnico:</b></h4>
-<div>(067) 99614-1046</div>
-<div>(067) 99925-7197</div>
-<div>(067) 99972-3456</div>
-<div>(011) 96866-0077</div>
-<div>(011) 99558-1504</div>
-<div>(021) 99743-0583</div>
-<div>(021) 99907-8286</div>
+<div>(011) 5199-7266</div>
 <br>
 <div>E-mail: cs.vivogo@before.com.br</div>
 <br>
