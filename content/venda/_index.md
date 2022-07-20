@@ -1,4 +1,5 @@
 ---
+weight: 6
 title: "Venda"
 date: 2020-05-18T11:02:05+04:00
 icon: "ti-shopping-cart"

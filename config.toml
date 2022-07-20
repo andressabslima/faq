@@ -1,12 +1,12 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://syscor-homologacao.before.com.br/faq"
+baseURL = "https://syscor.before.com.br/faq"
 # theme
 theme = "dot"
 # site title
 title = "Vivo GO FAQ"
 # google analytics
-googleAnalytics = "" # paste your analytics ID here. (Ex: UA-123-45)
+googleAnalytics = "UA-5488627-4" # paste your analytics ID here. (Ex: UA-123-45)
 
 # unsafe html
 [markup.goldmark.renderer]
@@ -17,6 +17,13 @@ unsafe= true
 name = "Manuais"
 url = "https://before.atlassian.net/wiki/spaces/SYSCOR/overview"
 weight = 1
+target = "_blank"
+
+[[menu.main]]
+name = "Contato"
+url = "contato"
+weight = 2
+target = "_self"
 
 ############################# Default Parameters ##########################
 [params]
@@ -72,4 +79,4 @@ placeholder = "Digite as palavras-chave para encontrar sua resposta"
 [Languages.en.params.cta]
 enable = true
 title = "Não encontrou uma resposta para a sua dúvida?"
-content = "Envie sua dúvida para a nossa equipe de suporte pelo e-mail cs.vivogo@before.com.br. Em breve retornaremos seu contato."
+content = "Envie sua dúvida para a nossa equipe de suporte pelo e-mail cs.vivogo@before.com.br.<br><br>Em breve retornaremos seu contato."

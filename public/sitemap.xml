@@ -3,186 +3,535 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/contabil/erros-xml/cest-incorreto/</loc>
+    <loc>https://syscor.before.com.br/faq/erros/venda/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/comercial/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/contabil/erros-xml/municipio-incorreto/</loc>
+    <loc>https://syscor.before.com.br/faq/erros/estoque/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/estoque/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/contabil/erros-xml/cnpj-invalido/</loc>
+    <loc>https://syscor.before.com.br/faq/atualizacoes/versao-289/</loc>
+    <lastmod>2021-10-15T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/atualizacoes/versao-288/</loc>
+    <lastmod>2021-10-07T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/venda/recargaconekta/</loc>
+    <lastmod>2021-05-15T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/venda/habilitacao-avulsa/</loc>
+    <lastmod>2021-02-27T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/relatorios/relatoriodenotas/</loc>
+    <lastmod>2021-01-22T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/venda/cancelamentotranstef/</loc>
+    <lastmod>2020-12-22T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/venda/paygo_desligado/</loc>
+    <lastmod>2020-12-22T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/financeiro/percentual-rateio-erro/</loc>
+    <lastmod>2020-10-28T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/venda/rejeicao-ncm/</loc>
+    <lastmod>2020-09-25T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/estoque/saidaincorreta/</loc>
+    <lastmod>2020-09-25T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/contabil/certificadoa3/</loc>
+    <lastmod>2020-09-25T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/contabil/inutil_nota/</loc>
+    <lastmod>2020-09-24T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/venda/conciliacaocartoesregistro/</loc>
+    <lastmod>2020-09-24T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/financeiro/suprimentocaixa/</loc>
+    <lastmod>2020-09-24T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/contabil/notasservico-sped/</loc>
+    <lastmod>2020-09-24T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/contabil/ncmcestcadastro/</loc>
+    <lastmod>2020-09-24T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/venda/alteracao-protocolos/</loc>
+    <lastmod>2020-09-02T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/financeiro/nfs-e/</loc>
+    <lastmod>2020-09-02T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/contabil/certificado/</loc>
+    <lastmod>2020-09-02T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/venda/serial-nao-encontrado/</loc>
+    <lastmod>2020-09-02T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/contabil/dre_zerado/</loc>
+    <lastmod>2020-09-02T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/contabil/erro-cfop/</loc>
+    <lastmod>2020-09-02T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/contabil/ie-emitente-invalida/</loc>
+    <lastmod>2020-09-02T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/venda/sms-aniversariantes/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/financeiro/ct-e/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/venda/usuario-inativo/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/venda/transacao-tef/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/financeiro/acesso-contabancaria/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/erros/financeiro/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/material-apoio/financeiro/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/venda/edicao-email-cliente/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/contabil/aliquota-definicao/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/contabil/ncm-cest/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/financeiro/despesas-avulsas/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/venda/preco-de-plano/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/material-apoio/relat%C3%B3rios/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/estoque/transferencia-cnpj-diferente/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/material-apoio/vendas/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/venda/renova-descontofabricante/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/venda/lancamento-antigo/</loc>
+    <lastmod>2020-08-17T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/venda/cancelamento/</loc>
+    <lastmod>2020-08-17T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/venda/primeira-ligacao/</loc>
+    <lastmod>2020-08-17T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/venda/cupom-fiscal/</loc>
+    <lastmod>2020-08-17T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/estoque/produto-duplicado-xml/</loc>
+    <lastmod>2020-08-17T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/venda/venda-retroativa/</loc>
+    <lastmod>2020-08-17T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/venda/caixa-fechado/</loc>
+    <lastmod>2020-08-17T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/venda/carta-de-correcao/</loc>
+    <lastmod>2020-08-17T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/estoque/serial-incorreto/</loc>
+    <lastmod>2020-08-17T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/financeiro/forma-de-pagamento/</loc>
+    <lastmod>2020-08-05T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/comercial/pdv-alteracao/</loc>
+    <lastmod>2020-07-29T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/contabil/configurar-aliquotas/</loc>
+    <lastmod>2020-07-29T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/comercial/alteracao-loja/</loc>
+    <lastmod>2020-07-29T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/contabil/sped-sintegra/</loc>
+    <lastmod>2020-07-29T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/contabil/xml-notas/</loc>
+    <lastmod>2020-07-29T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/comercial/cupom-fiscal/</loc>
+    <lastmod>2020-07-29T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/comercial/aquisicao-tef/</loc>
+    <lastmod>2020-07-29T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/comercial/contador/</loc>
+    <lastmod>2020-07-29T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/comercial/pdv-cancelado/</loc>
+    <lastmod>2020-07-29T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/comercial/migracao-pacote/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/contabil/erros-xml/coo-invalido/</loc>
+    <loc>https://syscor.before.com.br/faq/contabil/cest-incorreto/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/contabil/erros-xml/nfe-logradouro/</loc>
+    <loc>https://syscor.before.com.br/faq/contabil/municipio-incorreto/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/venda/contestacao/cnpj-invalido-portal/</loc>
+    <loc>https://syscor.before.com.br/faq/contabil/cnpj-invalido/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/estoque/compras/</loc>
+    <loc>https://syscor.before.com.br/faq/contabil/coo-invalido/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/venda/contestacao/codigo-dealer/</loc>
+    <loc>https://syscor.before.com.br/faq/contabil/nfe-logradouro/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/venda/contestacao/</loc>
+    <loc>https://syscor.before.com.br/faq/venda/cnpj-invalido-portal/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/contabil/erros-xml/</loc>
+    <loc>https://syscor.before.com.br/faq/comercial/pagamento-boleto/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/venda/contestacao/extensao/</loc>
+    <loc>https://syscor.before.com.br/faq/venda/cpf-cnpj-jacadastrado/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/venda/contestacao/servico-portal/</loc>
+    <loc>https://syscor.before.com.br/faq/venda/codigo-dealer/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/contabil/devolucao/</loc>
+    <loc>https://syscor.before.com.br/faq/venda/extensao/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/contabil/erros-xml/nota-referenciada/</loc>
+    <loc>https://syscor.before.com.br/faq/financeiro/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/contabil/devolucao/nfe-devolucao/</loc>
+    <loc>https://syscor.before.com.br/faq/venda/servico-portal/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/estoque/compras/compra-xml/</loc>
+    <loc>https://syscor.before.com.br/faq/contabil/nota-referenciada/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/venda/contestacao/despesa/</loc>
+    <loc>https://syscor.before.com.br/faq/contabil/devolucao/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/venda/contestacao/receita/</loc>
+    <loc>https://syscor.before.com.br/faq/estoque/compra-xml/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/estoque/compras/aparelho-vivo/</loc>
+    <loc>https://syscor.before.com.br/faq/venda/despesa/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/estoque/compras/produto-open/</loc>
+    <loc>https://syscor.before.com.br/faq/venda/receita/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/venda/contestacao/csv-invalido/</loc>
+    <loc>https://syscor.before.com.br/faq/estoque/aparelho-vivo/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/venda/contestacao/periodo/</loc>
+    <loc>https://syscor.before.com.br/faq/estoque/produto-open/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/venda/contestacao/data-portal/</loc>
+    <loc>https://syscor.before.com.br/faq/venda/csv-invalido/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/contabil/rejeicoes-nfe/icms-interestadual/</loc>
+    <loc>https://syscor.before.com.br/faq/venda/periodo/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/contabil/rejeicoes-nfe/cancelamento-nfe/</loc>
+    <loc>https://syscor.before.com.br/faq/venda/data-portal/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/contabil/rejeicoes-nfe/nfe-pagamento/</loc>
+    <loc>https://syscor.before.com.br/faq/contabil/nfe-nfce/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/contabil/rejeicoes-nfe/xml-utf8/</loc>
+    <loc>https://syscor.before.com.br/faq/comercial/cadastro-loja/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/contabil/rejeicoes-nfe/</loc>
+    <loc>https://syscor.before.com.br/faq/comercial/business-intelligence/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/comercial/</loc>
+    <loc>https://syscor.before.com.br/faq/contabil/rejeicoes-nfe/icms-interestadual/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/contabil/</loc>
+    <loc>https://syscor.before.com.br/faq/contabil/rejeicoes-nfe/cancelamento-nfe/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/estoque/</loc>
+    <loc>https://syscor.before.com.br/faq/contabil/rejeicoes-nfe/nfe-pagamento/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/financeiro/</loc>
+    <loc>https://syscor.before.com.br/faq/contabil/rejeicoes-nfe/xml-utf8/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/relatorios/</loc>
+    <loc>https://syscor.before.com.br/faq/contabil/rejeicoes-nfe/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/venda/</loc>
+    <loc>https://syscor.before.com.br/faq/contabil/denegado/</loc>
+    <lastmod>2020-05-08T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/financeiro/taxa-parcelamento/</loc>
+    <lastmod>2020-05-08T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/erros/relatorios/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/contabil/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/</loc>
+    <loc>https://syscor.before.com.br/faq/erros/configuracoes/</loc>
+    <lastmod>2020-08-26T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/relatorios/</loc>
     <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/categories/</loc>
+    <loc>https://syscor.before.com.br/faq/venda/</loc>
+    <lastmod>2020-05-18T11:02:05+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://syscor-homologacao.before.com.br/faq/tags/</loc>
+    <loc>https://syscor.before.com.br/faq/material-apoio/</loc>
+    <lastmod>2020-05-18T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/atualizacoes/</loc>
+    <lastmod>2021-10-05T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/erros/</loc>
+    <lastmod>2020-05-18T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/</loc>
+    <lastmod>2021-10-15T11:02:05+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/contato/</loc>
+  </url>
+  
+  <url>
+    <loc>https://syscor.before.com.br/faq/tags/</loc>
   </url>
   
 </urlset>
