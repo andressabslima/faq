@@ -1,21 +1,21 @@
 ---
-title: "Versão 2.8.9"
-date: 2021-10-15T11:02:05+04:00
-lastmod: 2021-10-15T11:02:05+04:00
+title: "Versão 3.1.16"
+date: 2022-07-28T11:02:05+04:00
+lastmod: 2022-07-28T11:02:05+04:00
 weight: 3
 draft: false
 # search related keywords
-keywords: ["versão","versao","2.8.9"]
+keywords: ["versão","versao","3.1.16"]
 ---
 
 Resumo das atualizações :
 
-● Nova permissão para gerenciamento de pré compras
+● Melhoria no relatório de venda de produtos
 
-● Nova validação cadastral no formulário de clientes
+● Ajustes nas regras de evasão
 
 Basta clicar abaixo para visualizar o detalhado das atualizações desta versão.
 
-[Versão 2.8.9][1]
+[Versão 3.1.16][1]
 
-[1]:versao289.pdf
+[1]:versao3116.pdf
